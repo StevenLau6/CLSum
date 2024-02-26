@@ -13,11 +13,10 @@ CLSum is licensed under [ODC-BY](https://opendatacommons.org/licenses/by/1-0/).
 
 ## Download
 
-Download from Google Drive
-
+Download from Google Drive [link](https://drive.google.com/drive/folders/1qAUr1uUxTFhX6Uuceu8wR2Uhl_mQGs3T?usp=drive_link)
 
 ## FAQ
-
+Coming soon
 
 
 
