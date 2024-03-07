@@ -6,7 +6,9 @@
 [![](https://img.shields.io/badge/author-@sq-red.svg)](https://stevenlau6.github.io/)
 
 
-A dataset for common law court judgment summarization
+CLSum is a dataset for common law court judgment summarization
+
+CLSum covers court judgments from four common law jurisdictions: the United Kingdom, Canada, Australia, and Hong Kong SAR.
 
 ## License
 CLSum is licensed under [ODC-BY](https://opendatacommons.org/licenses/by/1-0/).
