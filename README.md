@@ -22,7 +22,7 @@ Download from Google Drive [link](https://drive.google.com/drive/folders/1qAUr1u
 
 When using the CLSum dataset in a product or service, or including data in a redistribution, please cite the following paper:
 
-"""
+```
 @misc{liu2024lowresource,
       title={Low-Resource Court Judgment Summarization for Common Law Systems}, 
       author={Shuaiqi Liu and Jiannong Cao and Yicong Li and Ruosong Yang and Zhiyuan Wen},
@@ -31,7 +31,7 @@ When using the CLSum dataset in a product or service, or including data in a red
       archivePrefix={arXiv},
       primaryClass={cs.CL}
 }
-"""
+```
 
 
 ## FAQ
