@@ -10,6 +10,9 @@ CLSum is a dataset for common law court judgment summarization
 
 CLSum covers court judgments from four common law jurisdictions: the United Kingdom, Canada, Australia, and Hong Kong SAR.
 
+Paper <a href="https://arxiv.org/pdf/2403.04454.pdf">[PDF]</a>
+
+
 ## License
 CLSum is licensed under [ODC-BY](https://opendatacommons.org/licenses/by/1-0/).
 
@@ -19,7 +22,7 @@ Download from Google Drive [link](https://drive.google.com/drive/folders/1qAUr1u
 
 When using the CLSum dataset in a product or service, or including data in a redistribution, please cite the following paper:
 
-'''
+"""
 @misc{liu2024lowresource,
       title={Low-Resource Court Judgment Summarization for Common Law Systems}, 
       author={Shuaiqi Liu and Jiannong Cao and Yicong Li and Ruosong Yang and Zhiyuan Wen},
@@ -28,8 +31,7 @@ When using the CLSum dataset in a product or service, or including data in a red
       archivePrefix={arXiv},
       primaryClass={cs.CL}
 }
-
-'''
+"""
 
 
 ## FAQ
