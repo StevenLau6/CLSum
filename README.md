@@ -10,7 +10,7 @@ CLSum is a dataset for common law court judgment summarization
 
 CLSum covers court judgments from four common law jurisdictions: the United Kingdom, Canada, Australia, and Hong Kong SAR.
 
-Paper <a href="https://arxiv.org/pdf/2403.04454.pdf">[PDF]</a>
+Paper <a href="https://arxiv.org/pdf/2403.04454.pdf">[Arxiv PDF]</a> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0306457324001511">[Published Version]</a>
 
 Huggingface Datasets Page <a href="https://huggingface.co/datasets/Shuaiqi/CLSum">[Link]</a>
 
