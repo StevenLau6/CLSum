@@ -23,20 +23,29 @@ Download from Google Drive [link](https://drive.google.com/drive/folders/1qAUr1u
 When using the CLSum dataset in a product or service, or including data in a redistribution, please cite the following paper:
 
 ```
-@misc{liu2024lowresource,
-      title={Low-Resource Court Judgment Summarization for Common Law Systems}, 
-      author={Shuaiqi Liu and Jiannong Cao and Yicong Li and Ruosong Yang and Zhiyuan Wen},
-      year={2024},
-      eprint={2403.04454},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@article{liu2024low,
+  title={Low-resource court judgment summarization for common law systems},
+  author={Liu, Shuaiqi and Cao, Jiannong and Li, Yicong and Yang, Ruosong and Wen, Zhiyuan},
+  journal={Information Processing \& Management},
+  volume={61},
+  number={5},
+  pages={103796},
+  year={2024},
+  publisher={Elsevier}
 }
 ```
 
 
 ## FAQ
-Coming soon
 
+Q1: How to use this dataset?
+
+A1: You can find four subsets named CLSum-UK, CLSum-CA, CLSum-AUS, and CLSumHK from four common law jurisdictions: the United Kingdom, Canada, Australia, and Hong Kong SAR. Each subset has train, validation, and test sets. 
+"src.txt" and "tgt.txt" files contain judgement doucments and corresponding target summaries.
+
+Q2: Does each line of src.txt​ and tgt.txt​ files contain the source documents and the target summary, respectively?
+
+A2: Yes
 
 
 
