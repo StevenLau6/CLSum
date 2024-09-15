@@ -12,6 +12,7 @@ CLSum covers court judgments from four common law jurisdictions: the United King
 
 Paper <a href="https://arxiv.org/pdf/2403.04454.pdf">[PDF]</a>
 
+Huggingface Datasets Page <a href="https://huggingface.co/datasets/Shuaiqi/CLSum">[Link]</a>
 
 ## License
 CLSum is licensed under [ODC-BY](https://opendatacommons.org/licenses/by/1-0/).
